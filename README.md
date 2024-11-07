@@ -1,6 +1,6 @@
 <div align="center" style="margin-top: 20px;">
 
-<h1 style="font-size: 36px; font-family: 'Poppins',; color: #FF00FF; font-weight: bold; text-shadow: 2px 2px 4px #333333; border-bottom: 2px solid #FF00FF; padding-bottom: 10px; margin-bottom: 20px;">Hello, World! I'm Arka Adiana</h1>
+<h1 style="font-size: 36px; font-family: 'Poppins',; color: #FF00FF; font-weight: bold; text-shadow: 2px 2px 4px #333333; border-bottom: 2px solid #FF00FF; padding-bottom: 10px; margin-bottom: 20px;">Hello, World! I'm YAh Mada</h1>
 
 <p><img src="https://komarev.com/ghpvc/?username=arkaadiana&label=Profile%20views&color=FF00FF&style=flat" alt="Profile Views" /></p>
 
@@ -14,10 +14,6 @@
 
 <div style="display: inline-block; font-size: 16px; color: #E0E0E0; line-height: 1.8; padding: 10px 20px; background-color: #1A1A1A; border: 2px solid #FF00FF; border-radius: 10px; text-align: left; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-top: 20px; margin-bottom: 20px;">
   <ul style="list-style-type: none; padding: 0; margin: 0;">
-    <li style="margin: 5px 0;">🌱 Currently learning <strong style="color: #FFFFFF;">Machine Learning</strong></li>
-    <li style="margin: 5px 0;">💬 Open to discussions about <strong style="color: #FFFFFF;">anything!</strong></li>
-    <li style="margin: 5px 0;">📫 Reach me at <strong style="color: #FFFFFF;">arkaadiana.lit@gmail.com</strong></li>
-    <li style="margin: 5px 0;">⚡ Fun Fact: <strong style="color: #FFFFFF;">Before coding, I mastered motion graphics and VFX</strong></li>
   </ul>
 </div>
 
@@ -31,9 +27,9 @@
 <h3 style="font-size: 24px; color: #FF00FF; font-weight: bold; text-shadow: 1px 1px 2px #333333;">✦ Connect with me</h3>
 
 <p align="center">
-  <a href="https://linkedin.com/in/arka-adiana" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/4rrka" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@4rrka35" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/komang-mada" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://www.youtube.com/@Kaisuruchid" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
 </p>
 
 </div>
