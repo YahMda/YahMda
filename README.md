@@ -1,38 +1,31 @@
-<div align="center" style="margin-top: 20px;">
-
-<h1 style="font-size: 36px; font-family: 'Poppins',; color: #FF00FF; font-weight: bold; text-shadow: 2px 2px 4px #333333; border-bottom: 2px solid #FF00FF; padding-bottom: 10px; margin-bottom: 20px;">Hello, World! I'm YAh Mada</h1>
-
-<p><img src="https://komarev.com/ghpvc/?username=arkaadiana&label=Profile%20views&color=FF00FF&style=flat" alt="Profile Views" /></p>
-
-<h3 style="font-size: 18px; font-family: 'Poppins'; color: #FFFFFF; background-color: #FF00FF; padding: 8px 15px; border-radius: 12px; display: inline-block; text-shadow: 1px 1px 2px #333333;">Exploring the World of Programming ၊၊||၊ </h3>
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YahMda&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YahMda&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=YahMda&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YahMda&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
----
+###
 
-<div style="margin-top: 20px; font-family: 'Poppins', sans-serif;">
-
-<div style="display: inline-block; font-size: 16px; color: #E0E0E0; line-height: 1.8; padding: 10px 20px; background-color: #1A1A1A; border: 2px solid #FF00FF; border-radius: 10px; text-align: left; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); margin-top: 20px; margin-bottom: 20px;">
-  <ul style="list-style-type: none; padding: 0; margin: 0;">
-  </ul>
+<div align="left">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
 </div>
 
+###
+
+<img src="https://raw.githubusercontent.com/YahMda/YahMda/output/snake.svg" alt="Snake animation" />
+
+###
+
+<img src="https://raw.githubusercontent.com/YahMda/YahMda/output/pacman-contribution-graph.svg" alt="Pacman animation" />
+
+###
+
+<div align="center">
+  <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExMHdudTIzc3R0c2l6cmZ2OWNyeDAzbTU5Nm5lbXpscWxka255YXU1ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jt7bAtEijhurm/giphy.gif"  />
 </div>
 
----
-
-
-<div align="center" style="margin-top: 20px;">
-
-<h3 style="font-size: 24px; color: #FF00FF; font-weight: bold; text-shadow: 1px 1px 2px #333333;">✦ Connect with me</h3>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/komang-mada" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://www.youtube.com/@Kaisuruchid" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-</p>
-
-</div>
-
----
-
+###
