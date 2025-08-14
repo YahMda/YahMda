@@ -14,11 +14,6 @@
 ###
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/YahMda/count.svg?"  />
-</div>
-
 ###
 
 <div align="center">
