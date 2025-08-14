@@ -14,7 +14,6 @@
 ###
 
 <br clear="both">
-###
 
 <div align="center">
   <img height="200" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3ZreHBzM201cmJkc3k3MzZxam1odDJvemU0YWp3ZnFuM3dzZ3d1eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jt7bAtEijhurm/giphy.gif"  />
